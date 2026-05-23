@@ -81,6 +81,14 @@ const resources: any[] = [
       { name: 'Wiring Icons', url: 'https://www.flaticon.com/free-icons/wiring-diagram' }
     ]
   },
+  {
+    title: 'Submissions (YAY!)',
+    description: 'Submit your projects and assignments here',
+    icon: FileText,
+    links: [
+      { name: 'Submission Form', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdmas3rMRKQcOl8JD0Ngw61_Ln7eU4_8qEZEoiD-6bRWGS-CQ/viewform?usp=sharing&ouid=103635195387794736999' }
+    ]
+  }
 ]
 
 export default function Resources() {
