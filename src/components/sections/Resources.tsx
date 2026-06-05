@@ -86,7 +86,7 @@ const resources: any[] = [
     description: 'Submit your projects and assignments here',
     icon: FileText,
     links: [
-      { name: 'Submission Form', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdmas3rMRKQcOl8JD0Ngw61_Ln7eU4_8qEZEoiD-6bRWGS-CQ/viewform?usp=sharing&ouid=103635195387794736999' }
+      { name: 'Submission Form', url: 'https://docs.google.com/forms/d/e/1FAIpQLSerRKnSnNmB9Bes5HmvZ9OVq-ZqnByd6w-tPFdXigQxqvnVRA/viewform?usp=header' }
     ]
   },
   {
