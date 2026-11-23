@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="./project-scan.gif">
+  <img src="./project-static.png" width="1056" alt="YSP · Tech, Data &amp; CS ASCII project diagram">
+</picture>
+
+Browse the programme curriculum and resources, explore a Wokwi simulation, and see how the Ronnie robot is put together.
+
 # YSP TDCS Website - Young Scholars Programme: Tech, Data & Computer Science
 
 A highly interactive, visually stunning, and strictly responsive website built for the Young Scholars Programme focused on Tech, Data & Computer Science. This is a "futuristic hacker/maker playground" with constant motion, deep interactivity, and novel web elements.
